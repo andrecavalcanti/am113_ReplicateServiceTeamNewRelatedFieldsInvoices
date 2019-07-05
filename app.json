@@ -1,0 +1,30 @@
+{
+  "id": "3760f97a-1b1e-42f3-87b8-06a3bed75bcf",
+  "name": "DXC Replicate Service Team New Related Fields Up to Invoices",
+  "publisher": "DXC",
+  "brief": "DXC Brief 1",
+  "description": "AMC-113 Update 07-05-19",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [{
+    "appId": "3760f97a-1b1e-42f3-87b8-06a3bed75bcf",
+    "name": "DXC Sales Fields Service AMC108",
+    "publisher": "DXC",   
+    "version": "1.0.0.0"
+  }],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50149
+  },
+  "showMyCode": true,
+  "breakonerror" : true,
+  "runtime": "1.0"
+}
